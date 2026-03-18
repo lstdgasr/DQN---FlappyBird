@@ -1,6 +1,6 @@
 # DQN---FlappyBird
 DQN经典FlappyBird
-
+FlappyBird训练模型，Test加载训练好的模型展示训练结果
 通过自生成
 Flappy Bird - CNN+DQN 强化学习自动游戏
 基于 PyGame 实现 Flappy Bird 游戏环境，结合 **CNN+DQN（深度 Q 网络）** 强化学习算法，让 AI 自动学习玩小鸟游戏，支持 GPU 自动加速训练。
